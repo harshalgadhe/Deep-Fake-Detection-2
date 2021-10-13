@@ -28,6 +28,6 @@ pip install -r /path to requirements.txt file.
 The architecure of the model is as 
 <img src='https://github.com/harshalgadhe/Deep-Fake-Detection-2/blob/main/images/WhatsApp%20Image%202021-10-13%20at%2010.36.47%20(1).jpeg'><br>
 <h3>The results of the prediction model when tested on unseen data is as follows. As you can see the model was able to predict correctly.</h3><br>
-<img src='https://github.com/harshalgadhe/Deep-Fake-Detection-2/blob/main/Screenshot%20(25).png'><br> 
+<img src='https://github.com/harshalgadhe/Deep-Fake-Detection-2/blob/main/images/Screenshot%20(25).png'><br> 
 
 
